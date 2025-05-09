@@ -1,4 +1,3 @@
-// App.js
 import React from 'react';
 import HardcodedSTLViewer from './HardcodedSTLViewer';
 import './App.css';
