@@ -9,7 +9,7 @@ A demo for visualizing and optimizing 3D models using topological optimization t
 1. Clone the repository:
    ```bash
    git clone https://github.com/nicolesplaining/tiptop-demo.git
-   cd tiptop-optimization
+   cd tiptop-demo
    ```
 
 2. Install dependencies:
