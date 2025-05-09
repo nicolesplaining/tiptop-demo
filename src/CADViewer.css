@@ -1,4 +1,3 @@
-/* Enhanced CADViewer.css */
 :root {
     --primary-color: #2563eb;
     --primary-dark: #1d4ed8;
@@ -408,7 +407,7 @@
       padding: 0.75rem 1.25rem;
     }
   }
-/* Popup Input Styles */
+
 .popup-input-group {
     margin-bottom: 1rem;
   }
